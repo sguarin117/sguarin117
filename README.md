@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi, I'm Sebastián, passionate about data, technology, and the financial world. I'm driven by curiosity, continuous learning, and the search for practical solutions to complex problems through data science.
+👋 Hi, I'm Sebastián, passionate about data, technology, and the financial industry. I'm driven by curiosity, continuous learning, and the search for practical solutions to complex problems through data science.
 
 🔭 My background as an industrial engineer and experience in financial analysis, business intelligence, and data science has allowed me to connect my technical skills with my strategic skills. I firmly believe that well-used data can transform the way organizations make decisions.
 
