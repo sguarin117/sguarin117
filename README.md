@@ -1,19 +1,6 @@
 ## Hi there 👋
 
-<!--
-**sguarin117/sguarin117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
--  🌱I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Industrial Engineer → Data Scientist** · Finance & analytics · Bogotá, Colombia
 
 👋 Hi, I'm Sebastián, passionate about data, technology, and the financial industry. I'm driven by curiosity, continuous learning, and the search for practical solutions to complex problems through data science.
 
@@ -25,19 +12,28 @@ Here are some ideas to get you started:
 
 📈 During my thesis, I developed a valuation model for Avianca Holdings during its bankruptcy process, incorporating macroeconomic variables such as fuel prices using statistical techniques in R. This project reaffirmed my interest in applying advanced analytics to real-world problems.
 
+### 📂 Featured projects
+
+| Project | What it shows | Stack |
+|---|---|---|
+| [🎮 What makes a video game successful?](https://github.com/sguarin117/video-game-sales-analysis) | EDA and hypothesis testing on 16.7k games (1980–2016) to decide where to invest a 2017 marketing budget. Includes market profiles by region (NA / EU / JP) and a recommendation | Python, pandas, seaborn, SciPy |
+| [🚗 Used-car listings dashboard](https://github.com/sguarin117/car-listings-dashboard) | Interactive web app to explore 51k used-car ads: mileage distribution and price vs. mileage | Python, Streamlit, Plotly |
+
+*Project write-ups are in Spanish.*
+
 ### My skills:
 
-[![Python](https://img.shields.io/badge/Python-Data_Science-3776ab?style=flat&logo=python&logoColor=white)](https://git.io/python-skills)
-[![SQL](https://img.shields.io/badge/SQL-Analytical-003545?style=flat&logo=mysql&logoColor=white)](https://git.io/sql-skills)
-[![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://git.io/excel-skills)
-[![Data Analysis](https://img.shields.io/badge/Data_Analysis-Insightful-20c997?style=flat&logo=google-analytics&logoColor=white)](https://git.io/data-skills)
-[![Machine Learning](https://img.shields.io/badge/Machine_Learning-Scikit--Learn-f7931e?style=flat&logo=scikitlearn&logoColor=white)](https://git.io/ml-skills)
-[![CLI](https://img.shields.io/badge/Command_Line-Experienced-555555?style=flat&logo=gnubash&logoColor=white)](https://git.io/cli-skills)
-[![JSON](https://img.shields.io/badge/JSON-Structured_Data-5e5c5c?style=flat&logo=json&logoColor=white)](https://git.io/json-skills)
-[![Java](https://img.shields.io/badge/Java-OOP_Proficiency-007396?style=flat&logo=java&logoColor=white)](https://git.io/java-skills)
-[![Power BI](https://img.shields.io/badge/Power_BI-Data_Visualization-f2c811?style=flat&logo=powerbi&logoColor=black)](https://git.io/powerbi-skills)
-[![C++](https://img.shields.io/badge/C++-Efficient_Code-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://git.io/cpp-skills)
-[![HTML](https://img.shields.io/badge/HTML-Learning-ff5733?style=flat&logo=html5&logoColor=white)](https://git.io/html-skills)
+![Python](https://img.shields.io/badge/Python-Data_Science-3776ab?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Analytical-003545?style=flat&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-Insightful-20c997?style=flat&logo=google-analytics&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Scikit--Learn-f7931e?style=flat&logo=scikitlearn&logoColor=white)
+![CLI](https://img.shields.io/badge/Command_Line-Experienced-555555?style=flat&logo=gnubash&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-Structured_Data-5e5c5c?style=flat&logo=json&logoColor=white)
+![Java](https://img.shields.io/badge/Java-OOP_Proficiency-007396?style=flat&logo=java&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-Data_Visualization-f2c811?style=flat&logo=powerbi&logoColor=black)
+![C++](https://img.shields.io/badge/C++-Efficient_Code-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-Learning-ff5733?style=flat&logo=html5&logoColor=white)
 
 ### I can contribute with:
 ✅ Analytical mindset and business focus
